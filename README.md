@@ -23,7 +23,7 @@ The system processes raw text messages, converts them into numerical features us
 
 ---
 
-## Technologies Used
+## Installed Dependencies
 
 - Python 3
 - NumPy
