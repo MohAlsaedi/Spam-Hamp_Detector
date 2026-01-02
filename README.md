@@ -55,5 +55,5 @@ The model is trained on the **SMS Spam Collection Dataset**, which contains 5,57
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/sms-spam-classifier.git
+git clone https://github.com/MohAlsaedi/sms-spam-classifier.git
 cd sms-spam-classifier
